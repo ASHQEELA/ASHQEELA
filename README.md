@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://ashqeela.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2E6B50?logo=googlechrome"></a>
-  <a href="https://linkedin.com/in/ashiqul-islam-461ba2366"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/md-ashiqul-islam-bhuiyan-bb0901405"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin"></a>
   <a href="mailto:mdashiqulislambhuiyan1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail"></a>
 </p>
 
