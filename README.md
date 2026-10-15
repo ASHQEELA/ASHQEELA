@@ -27,7 +27,7 @@ I build machine learning systems and take them from research to a running applic
 | [FloraScan](https://github.com/ASHQEELA/FloraScan) | Classifies 102 flower types with ResNet34 and a Streamlit app | 91.4% top-1 accuracy, under 120 ms per image on CPU |
 | PredictaGPU | Detects GPU anomalies and predicts failure time in Kubernetes clusters | Isolation Forest and LSTM with a live dashboard |
 | eShakkhor | Signs documents with post-quantum cryptography in the browser | Signs in under 300 ms |
-| [MedExPart](https://github.com/ASHQEELA/MedXpert) · [Live](YOUR_LIVE_URL) | Healthcare platform for blood donation, emergency SOS, consultations and AI chat | 15+ REST endpoints, cached calls under 50 ms |
+| [MedExPart](https://github.com/ASHQEELA/MedXpert) · [Live](https://medxpert.infy.click/) | Healthcare platform for blood donation, emergency SOS, consultations and AI chat | 15+ REST endpoints, cached calls under 50 ms |
 | VeriChert | Verifies academic credentials on Ethereum with Merkle batching | 74% lower on-chain cost per credential |
 | GitQuest | Turns GitHub activity into XP, levels and badges | 60% faster data sync |
 
