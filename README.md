@@ -12,8 +12,6 @@
 
 I build machine learning systems and take them from research to a running application.
 
-- Final-year Computer Science and Engineering student, Daffodil International University, specializing in AI and ML, CGPA 3.73 out of 4.00
-- Thesis: INDIGO, a graph neural network for drug-drug interaction prediction
 - Interested in healthcare AI, drug discovery and security
 - Mentor of team Syntax Error, AI Innovation Hackathon 2026
 - AWS Academy Graduate, Cloud Foundations
