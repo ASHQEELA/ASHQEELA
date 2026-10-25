@@ -1,6 +1,6 @@
 <h1 align="center">Md Ashiqul Islam Bhuiyan</h1>
 
-<p align="center">Junior AI / ML Engineer · Dhaka, Bangladesh</p>
+<p align="center">AI / ML / Software Engineer · Dhaka, Bangladesh</p>
 
 <p align="center">
   <a href="https://ashqeela.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2E6B50?logo=googlechrome"></a>
