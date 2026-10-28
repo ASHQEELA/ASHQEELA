@@ -53,4 +53,4 @@ I am open to AI, ML and software engineering roles. If your team builds ML syste
 
 - Email: mdashiqulislambhuiyan1@gmail.com
 - LinkedIn: [ashiqul-islam-461ba2366](https://linkedin.com/in/ashiqul-islam-461ba2366)
-- Portfolio: [ashqeela.github.io](https://ashqeela.github.io)
+- Portfolio: [ashiqulislam.vercel.app](https://ashiqulislam.vercel.app/)
