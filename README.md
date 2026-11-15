@@ -52,5 +52,5 @@ I build machine learning systems and take them from research to a running applic
 I am open to AI, ML and software engineering roles. If your team builds ML systems, write to me.
 
 - Email: mdashiqulislambhuiyan1@gmail.com
-- LinkedIn: [ashiqul-islam-461ba2366](https://linkedin.com/in/ashiqul-islam-461ba2366)
-- Portfolio: [ashiqulislam.vercel.app](https://ashiqulislam.vercel.app/)
+- LinkedIn: [Message-Me](https://www.linkedin.com/in/md-ashiqul-islam-bhuiyan-bb0901405)
+- Portfolio: [Visit-my-portfolio](https://ashiqulislam.vercel.app/)
