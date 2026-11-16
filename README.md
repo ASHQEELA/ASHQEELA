@@ -23,6 +23,7 @@ I build machine learning systems and take them from research to a running applic
 | INDIGO | Predicts drug-drug interactions across 87 types on DrugBank v5.1 with GCN and GIN models | ROC-AUC 0.9771, PR-AUC 0.5410 |
 | Bengali Sentiment | Fine-tunes BanglaBERT on 2,500+ labeled posts in 3 classes | 88.37% accuracy, 0.8846 weighted F1 |
 | [FloraScan](https://github.com/ASHQEELA/FloraScan) | Classifies 102 flower types with ResNet34 and a Streamlit app | 91.4% top-1 accuracy, under 120 ms per image on CPU |
+| [myshell-py](https://github.com/ASHQEELA/myshell) · [PyPI](https://pypi.org/project/myshell-py/) | Unix-style shell in Python with pipes, job control, scripting and a built-in guide | Published on PyPI, 13 guide lessons, CI on Linux, macOS and Windows |
 | PredictaGPU | Detects GPU anomalies and predicts failure time in Kubernetes clusters | Isolation Forest and LSTM with a live dashboard |
 | eShakkhor | Signs documents with post-quantum cryptography in the browser | Signs in under 300 ms |
 | [MedXpert](https://github.com/ASHQEELA/MedXpert_main_web) · [Live](https://medxpert.infy.click/) | Healthcare platform for blood donation, emergency SOS, consultations and AI chat | 15+ REST endpoints, cached calls under 50 ms |
